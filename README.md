@@ -9,7 +9,10 @@
 |          발표일           |                                       주제                          | 발표자              |       발표자료  |
 | :---------------------: | :----------------------------------------------------------------------: | :-------------: | :---------: |
 | 08.07 | OT | 송현우 | [OT](https://github.com/SSAFY-Seoul-Class-7/STUDY_Operating_System/blob/main/OT.pdf) |
-| 08.14 | system call, interrupt, process, scheduler |  | |
+| 08.14 | system call, interrupt | 고종환 | |
+| 08.14 | system call, interrupt | 한민욱 | |
+| 08.14 | process, scheduler | 안효성 | |
+| 08.14 | process, scheduler | 김건희 | |
 | 08.21 | Context switching, scheduling algorithm, mutex & semaphore, deadlock |  | |
 | 08.28 | Compile, interpreter, IPC, thread safe, thread pool, cache |  | |
 | 09.04 | Thrashing, virtual memory, segmentation & paging, TLB |  | |
