@@ -10,7 +10,7 @@
 | :---------------------: | :----------------------------------------------------------------: | :-------------: | :---------: |
 | 08.07 | OT | 송현우 | [OT](https://github.com/SSAFY-Seoul-Class-7/STUDY_Operating_System/blob/main/OT.pdf) |
 | 08.14 | system call, interrupt | 고종환 | |
-| 08.14 | system call, interrupt | 한민욱 | |
+| 08.14 | system call, interrupt | 한민욱 | [1주차](https://github.com/SSAFY-Seoul-Class-7/STUDY_Operating_System/blob/main/SSAFY_CS%EC%8A%A4%ED%84%B0%EB%94%94_%EC%8B%9C%EC%8A%A4%ED%85%9C%EC%BD%9C_%EC%9D%B8%ED%84%B0%EB%9F%BD%ED%8A%B8_%ED%95%9C%EB%AF%BC%EC%9A%B1.pdf) |
 | 08.14 | process, scheduler | 안효성 | |
 | 08.14 | process, scheduler | 김건희 | |
 | 08.21 | Context switching, scheduling algorithm, mutex & semaphore, deadlock |  | |
