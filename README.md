@@ -14,7 +14,7 @@
 | 08.14 | process, scheduler | 안효성 | [안효성](https://github.com/SSAFY-Seoul-Class-7/STUDY_Operating_System/blob/main/Process%2C%20Scheduler/%EC%95%88%ED%9A%A8%EC%84%B1_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4VS%EC%8A%A4%EB%A0%88%EB%93%9C.pdf) |
 | 08.14 | process, scheduler | 김건희 | [김건희](https://github.com/SSAFY-Seoul-Class-7/STUDY_Operating_System/blob/main/Process%2C%20Scheduler/SSAFY_CS_STUDY_%EA%B9%80%EA%B1%B4%ED%9D%AC_%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4.pdf) |
 | 08.21 | Context switching, scheduling algorithm | 남선우 | |
-| 08.21 | Context switching, scheduling algorithm | 정정교 | |
+| 08.21 | Context switching, scheduling algorithm | 박창희 | |
 | 08.21 | mutex & semaphore, deadlock | 하윤철 | |
 | 08.21 | mutex & semaphore, deadlock | 김성헌 | |
 | 08.28 | Compile, interpreter, IPC, thread safe, thread pool, cache |  | |
