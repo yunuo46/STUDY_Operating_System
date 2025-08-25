@@ -1,7 +1,7 @@
 ---
 name: 주간 스터디 요약
 about: 한 주 동안 진행된 스터디 내용을 요약합니다.
-title: '[2025-MM-DD] OS ~주차 스터디 요약'
+title: '[1] 주제'
 labels: 'summary'
 assignees: ''
 ---
