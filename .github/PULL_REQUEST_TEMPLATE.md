@@ -1,11 +1,3 @@
----
-name: "✏️ 주간 스터디 요약 제출"
-about: 한 주간 학습한 내용을 요약하여 제출합니다.
-title: "[Week1 - 1조] Study Summary"
-labels: 'summary'
-assignees: ''
----
-
 ## 📅 이번 주 스터디 정보
 
 - **스터디 기간:** 2025년 8월 25일 ~ 8월 31일
