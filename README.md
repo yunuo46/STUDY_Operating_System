@@ -17,8 +17,8 @@
 | 08.21 | Context switching, scheduling algorithm | 박창희 | [박창희](https://github.com/SSAFY-Seoul-Class-7/STUDY_Operating_System/blob/main/Context%20Switching%2C%20Scheduling/Context_Switching_%E1%84%87%E1%85%A1%E1%86%A8%E1%84%8E%E1%85%A1%E1%86%BC%E1%84%92%E1%85%B4.pdf) |
 | 08.21 | mutex & semaphore, deadlock | 하윤철 | [하윤철](https://github.com/SSAFY-Seoul-Class-7/STUDY_Operating_System/blob/main/Mutex%2C%20Semaphore%2C%20Deadlock/%EC%99%9C%20%ED%98%84%EB%8C%80%EC%9D%98%20OS%EB%8A%94%20Deadlock%EC%9D%84%20%EC%B2%98%EB%A6%AC%ED%95%98%EC%A7%80%20%EC%95%8A%EC%9D%84%EA%B9%8C.pptx) |
 | 08.21 | mutex & semaphore, deadlock | 김성헌 | [김성헌](https://github.com/SSAFY-Seoul-Class-7/STUDY_Operating_System/blob/main/Mutex%2C%20Semaphore%2C%20Deadlock/SSAFY_CS_STUDY_%EA%B9%80%EC%84%B1%ED%97%8C_V2.pdf) |
-| 08.28 | Compile, interpreter, IPC | 권종인 | |
-| 08.28 | Compile, interpreter, IPC | 박종현 | |
+| 08.28 | Compile, interpreter, IPC | 권종인 | | [권종인](https://github.com/SSAFY-Seoul-Class-7/STUDY_Operating_System/blob/main/Compile%2C%20interpreter%2C%20IPC/%ED%94%84%EB%A1%9C%EC%84%B8%EC%8A%A4%20%EA%B0%84%20%ED%86%B5%EC%8B%A0(IPC)%EC%9D%98%20%EA%B0%9C%EB%85%90%EA%B3%BC%20%EA%B5%AC%ED%98%84%20%EB%B0%A9%EB%B2%95.pdf) |
+| 08.28 | Compile, interpreter, IPC | 박종현 | | [박종현](https://github.com/SSAFY-Seoul-Class-7/STUDY_Operating_System/blob/main/Compile%2C%20interpreter%2C%20IPC/compiling_%EB%B0%95%EC%A2%85%ED%98%84.pdf) |
 | 08.28 | thread safe, thread pool, cache | 강병호 | [강병호](https://github.com/SSAFY-Seoul-Class-7/STUDY_Operating_System/blob/main/Thread%20safe%2C%20Thread%20pool%2C%20Cache/Cache_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A9.pdf) 
 | 08.28 | thread safe, thread pool, cache | 허진혁 | |
 | 09.04 | Thrashing, virtual memory, segmentation & paging, TLB |  | |
