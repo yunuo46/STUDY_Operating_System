@@ -19,7 +19,7 @@
 | 08.21 | mutex & semaphore, deadlock | 김성헌 | [김성헌](https://github.com/SSAFY-Seoul-Class-7/STUDY_Operating_System/blob/main/Mutex%2C%20Semaphore%2C%20Deadlock/SSAFY_CS_STUDY_%EA%B9%80%EC%84%B1%ED%97%8C_V2.pdf) |
 | 08.28 | Compile, interpreter, IPC | 권종인 | |
 | 08.28 | Compile, interpreter, IPC | 박종현 | |
-| 08.28 | thread safe, thread pool, cache | 강병호 | |
+| 08.28 | thread safe, thread pool, cache | 강병호 | [강병호](https://github.com/SSAFY-Seoul-Class-7/STUDY_Operating_System/blob/main/Thread%20safe%2C%20Thread%20pool%2C%20Cache/Cache_%E1%84%80%E1%85%A1%E1%86%BC%E1%84%87%E1%85%A7%E1%86%BC%E1%84%92%E1%85%A9.pdf) 
 | 08.28 | thread safe, thread pool, cache | 허진혁 | |
 | 09.04 | Thrashing, virtual memory, segmentation & paging, TLB |  | |
 | 09.11 | Synchronization, page replacement, file system, sync & async, blocking & non-blocking |  | |
